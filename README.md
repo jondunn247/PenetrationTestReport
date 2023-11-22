@@ -8,8 +8,7 @@ Conducted a penetration test by attacking a fictional organization's web applica
   
 <h2>Environments Used </h2>
 
-- <b>Microsoft Azure Cloud Services</b>
-- <b>Azure Cloud Portal</b>
+- <b>Azure Labs</b>
 
 <h2>Project walk-through:</h2>
 
