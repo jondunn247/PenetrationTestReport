@@ -589,12 +589,9 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
+<img src="https://i.imgur.com/qqhmW7y.png" />
 
-<img src="images/image7.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
   </tr>
   <tr>
    <td><strong>Affected Hosts</strong>
@@ -648,10 +645,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image8.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://i.imgur.com/oRo3dux.png" />
 
    </td>
   </tr>
@@ -707,10 +701,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image9.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://i.imgur.com/hDODXKD.png" />
 
    </td>
   </tr>
@@ -766,18 +757,11 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image10.png" width="" alt="alt_text" title="image_tooltip">
-
+<img src="https://i.imgur.com/cT3tvpi.png" />
 <p>
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image11.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://i.imgur.com/NL27FKW.png" />
 
    </td>
   </tr>
@@ -833,10 +817,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image12.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://i.imgur.com/0ylbnJR.png" />
 
    </td>
   </tr>
@@ -892,10 +873,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image13.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://i.imgur.com/sgLYlgn.png" />
 
    </td>
   </tr>
@@ -921,36 +899,19 @@ We also discovered the following additional vulnerabilities in addition to the o
 * Leaked server information
 
 
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
-
+<img src="https://i.imgur.com/qaWq8V5.png" />
 
 
 
 * Simple password cracking
 
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
-
-
+<img src="https://i.imgur.com/6qicIvc.png" />
 
 
 * Multiple usernames were retrieved 
 
 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
+<img src="https://i.imgur.com/RPU91Kj.png" />
 
 
 
@@ -958,11 +919,7 @@ We also discovered the following additional vulnerabilities in addition to the o
 
 
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
-
+<img src="https://i.imgur.com/iVrSUTn.png" />
 
 
 
@@ -970,7 +927,4 @@ We also discovered the following additional vulnerabilities in addition to the o
 
 
 
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
+<img src="https://i.imgur.com/7DYKkNX.png" />
