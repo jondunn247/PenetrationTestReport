@@ -533,7 +533,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<img src="https://i.imgur.com/2MPdcZo.png" height="60%" width="60%"/>
+<img src="https://i.imgur.com/2MPdcZo.png" height="70%" width="70%"/>
 
    </td>
   </tr>
@@ -757,11 +757,11 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<img src="https://i.imgur.com/cT3tvpi.png" />
+<img src="https://i.imgur.com/cT3tvpi.png" height="60%" width="60%" />
 <p>
 
 
-<img src="https://i.imgur.com/NL27FKW.png" />
+<img src="https://i.imgur.com/NL27FKW.png" height="60%" width="60%" />
 
    </td>
   </tr>
@@ -817,7 +817,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<img src="https://i.imgur.com/0ylbnJR.png" />
+<img src="https://i.imgur.com/0ylbnJR.png" height="60%" width="60%" />
 
    </td>
   </tr>
@@ -873,7 +873,7 @@ The following summary tables represent an overview of the assessment findings fo
    </td>
    <td>
 
-<img src="https://i.imgur.com/sgLYlgn.png" />
+<img src="https://i.imgur.com/sgLYlgn.png" height="60%" width="60%"/>
 
    </td>
   </tr>
@@ -899,19 +899,19 @@ We also discovered the following additional vulnerabilities in addition to the o
 * Leaked server information
 
 
-<img src="https://i.imgur.com/qaWq8V5.png" />
+<img src="https://i.imgur.com/qaWq8V5.png" height="60%" width="60%" />
 
 
 
 * Simple password cracking
 
-<img src="https://i.imgur.com/6qicIvc.png" />
+<img src="https://i.imgur.com/6qicIvc.png" height="60%" width="60%" />
 
 
 * Multiple usernames were retrieved 
 
 
-<img src="https://i.imgur.com/RPU91Kj.png" />
+<img src="https://i.imgur.com/RPU91Kj.png" height="60%" width="60%" />
 
 
 
@@ -919,12 +919,11 @@ We also discovered the following additional vulnerabilities in addition to the o
 
 
 
-<img src="https://i.imgur.com/iVrSUTn.png" />
+<img src="https://i.imgur.com/iVrSUTn.png" height="60%" width="60%" />
 
 
 
 * There is no coded output
 
 
-
-<img src="https://i.imgur.com/7DYKkNX.png" />
+<img src="https://i.imgur.com/7DYKkNX.png" height="60%" width="60%"/>
