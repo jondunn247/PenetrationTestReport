@@ -25,12 +25,43 @@ Conducted a penetration test by attacking a fictional organization's web applica
 
 This document contains confidential and privileged information from Rekall Inc. (henceforth known as Rekall). The information contained in this document is confidential and may constitute inside or non-public information under international, federal, or state laws. Unauthorized forwarding, printing, copying, distribution, or use of such information is strictly prohibited and may be unlawful. If you are not the intended recipient, be aware that any disclosure, copying, or distribution of this document or its parts is prohibited.
 
-Table of Contents
+## Table of Contents
 
+#### Confidentiality Statement	2
 
-[TOC]
+#### Contact Information	4
 
+#### Document History	4
 
+#### Introduction	5
+
+#### Assessment Objective	5
+
+#### Penetration Testing Methodology	6
+
+#### Reconnaissance	6
+
+#### Identification of Vulnerabilities and Services	6
+
+#### Vulnerability Exploitation	6
+
+#### Reporting	6
+
+#### Scope	7
+
+#### Executive Summary of Findings	8
+
+#### Grading Methodology	8
+
+#### Summary of Strengths	9
+
+#### Summary of Weaknesses	9
+
+#### Executive Summary Narrative	10
+
+#### Summary Vulnerability Overview	13
+
+#### Vulnerability Findings	14
 
 # 
 
@@ -199,11 +230,7 @@ As the following grid shows, each threat is assessed in terms of both its potent
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+<img align="middle" src="https://i.imgur.com/e4ZxCWj.png" height="60%" width="60%"/>
 
 
 ### 
@@ -238,22 +265,14 @@ We successfully found several critical vulnerabilities that should be immediatel
 
 Found several vulnerabilities during penetration test, some of which could be easily exploited by malicious actors. One key finding from the test was that the company's firewall was vulnerable to being accessed simply from the internet. Additionally, a vulnerability in the company's email server could allow hackers to gain access to confidential information, and another vulnerability in the email server could allow attackers to spoof emails. Rekall Corp. recommends that their security be reviewed and their firewalls be updated as part of this process.
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+<img align="middle" src="https://i.imgur.com/X4wrzE2.png" height="60%" width="60%"/>
 
 
 (Nmap scan 192.168.14.35)
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+<img src="https://i.imgur.com/cD46WbG.png" height="60%" width="60%"/>
 
 
  (Leaked Server Info - OWASP Tool - About-Rekall.php)
